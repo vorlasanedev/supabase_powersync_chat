@@ -15,5 +15,5 @@ flutter create -e supabase_powersync_chat --org=com.ifundev
 8. material icon theme
 9. error lens
 10. todo tree
-11. pubspec assist (Simply open the Command Palette (by default, Ctrl+Shift+P on Windows, ⌘+Shift+P on Mac) and search for "Pubspec Assist".)
+11. pubspec assist ( Ctrl+Shift+P on Windows, ⌘+Shift+P on Mac) and search for "Pubspec Assist" and type packgage name)
 12. image preview
